@@ -1,2 +1,0 @@
-# Charity
-Brainstation Project
